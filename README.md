@@ -31,5 +31,6 @@ Parallelization: Annoy allows building the index once and sharing it across proc
 Memory Efficiency: It minimizes memory footprint, crucial for large-scale applications.
 
 # Recommendation working  
- we recommend the songs in this project we use the youtube video id **example** https://www.youtube.com/watch?v=**dQw4w9WgXcQ** the highlighted part contains the id of the video songs all the songs and there id are stored in csv files.
+ We use all songs  wav files and recognize a pattern in them by using annoy algorithm and map them with the help of mapping we recommend nearest song to liked song
+ The csv files contains all the primary sounds used in songs based on these we use annoy.
 
