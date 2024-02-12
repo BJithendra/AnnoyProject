@@ -1,4 +1,4 @@
-**Introduction**
+##**Introduction**##
 In the vast realm of data science and machine learning, the quest for efficient nearest neighbor search has led to the development of various algorithms. One such remarkable solution is the Annoy algorithm. Despite its whimsical name, Annoy is a serious contender when it comes to finding approximate nearest neighbors in high-dimensional spaces. So, let’s dive into the intricacies of this algorithm.
 
 **What Is Annoy?**
